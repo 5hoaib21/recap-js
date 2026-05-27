@@ -8,4 +8,4 @@ const nums = [];
 
 const food = 'ja hi d';
 
-console.log(Array.isArray(food));
+console.log(Array.isArray( nums));
