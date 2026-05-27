@@ -8,5 +8,5 @@
 const cars = ['Toyota', 'BMW', 'Volvo'];
 // console.log({cars});
 
-console.log(typeof cars);
+// console.log(typeof cars);
 // document.write(5=10)
